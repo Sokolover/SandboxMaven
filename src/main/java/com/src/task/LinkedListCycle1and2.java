@@ -1,4 +1,4 @@
-package com.src;
+package com.src.task;
 
 /**
  * Definition for singly-linked list.

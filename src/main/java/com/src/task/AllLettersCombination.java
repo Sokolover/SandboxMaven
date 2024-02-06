@@ -1,4 +1,4 @@
-package com.src;
+package com.src.task;
 
 /**
  * Given string “123”, print all combinations of letters of this string

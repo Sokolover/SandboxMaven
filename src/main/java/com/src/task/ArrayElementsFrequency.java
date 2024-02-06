@@ -1,4 +1,4 @@
-package com.src;
+package com.src.task;
 
 import java.util.HashMap;
 import java.util.Map;
